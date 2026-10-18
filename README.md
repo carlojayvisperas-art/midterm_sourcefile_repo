@@ -10,3 +10,6 @@ This repository contains my JavaScript source codes for the midterm period.
 
 ## Purpose
 This repository is for practicing Git and GitHub, organizing source files, and tracking changes using commits and branches.
+
+## Lesson 3
+Added the Student Grade Analyzer source code for Lesson 3.
