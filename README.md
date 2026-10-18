@@ -21,3 +21,8 @@ I practiced creating a feature branch and merging changes into main.
 
 Remote update practice for the Git pull demonstration.
 
+## Midterm GitHub Activity
+
+I organized my midterm JavaScript source files and practiced
+Git initialization, staging, committing, pushing, pulling,
+cloning, branching, checkout, and merging.
