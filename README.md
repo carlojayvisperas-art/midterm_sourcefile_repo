@@ -13,3 +13,7 @@ This repository is for practicing Git and GitHub, organizing source files, and t
 
 ## Lesson 3
 Added the Student Grade Analyzer source code for Lesson 3.
+
+## Git Practice
+
+I practiced creating a feature branch and merging changes into main.
