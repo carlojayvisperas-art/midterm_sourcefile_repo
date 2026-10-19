@@ -26,3 +26,6 @@ Remote update practice for the Git pull demonstration.
 I organized my midterm JavaScript source files and practiced
 Git initialization, staging, committing, pushing, pulling,
 cloning, branching, checkout, and merging.
+
+## Final Midterm Update
+All current lesson source codes have been added to this repository.
